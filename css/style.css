@@ -3,6 +3,7 @@
     min-width:100rem;
     height:auto;
 }
+
 html{
   font-size: 70%;
 }
@@ -69,6 +70,16 @@ a:hover{
   margin: 5rem auto 5rem auto;
   width: 50%;
   text-align: left;
+}
+
+.For-more-details{
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.contact-me{
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 .mountain{
@@ -152,7 +163,7 @@ a:hover{
     font-size: 55%
   }
   p{
-    font-size: 1.8rem
+    font-size: 1.5rem
   }
 }
 
@@ -162,7 +173,7 @@ a:hover{
   }
 
   p{
-    font-size: 1.8rem
+    font-size: 1.6rem
   }
   .bottom-cloud{
     visibility: hidden;
