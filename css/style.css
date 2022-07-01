@@ -198,10 +198,10 @@ a:hover{
    font-size: 1.74rem;
    font-weight: 100;
    padding: 1.35rem;
-   -webkit-box-shadow: 0.1rem 0.1rem 2rem 0 #000000;
-   -moz-box-shadow: 0.1rem 0.1rem 2rem 0 #000000;
-   box-shadow: 0.1rem 0.1rem 2rem 0 #000000;
-   text-shadow: 0.1rem 0.1rem 2rem #000000;
+   -webkit-box-shadow: 0.1rem 0.1rem 2rem 0 #90ecf0;
+   -moz-box-shadow: 0.1rem 0.1rem 2rem 0 #90ecf0;
+   box-shadow: 0.1rem 0.1rem 2rem 0 #90ecf0;
+   text-shadow: 0.1rem 0.1rem 2rem #90ecf0;
    text-decoration: none;
    display: inline-block;
    cursor: pointer;
