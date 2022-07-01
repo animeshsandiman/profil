@@ -72,6 +72,12 @@ a:hover{
   text-align: left;
 }
 
+.skill-project {
+  margin: 1rem auto 1rem auto;
+  width: 50%;
+  text-align: center;
+}
+
 .For-more-details{
   padding-right: 1rem;
   padding-left: 1rem;
@@ -123,7 +129,7 @@ a:hover{
 
 .contact-message {
   width: 40%;
-  margin: 4rem auto 6rem;
+  margin: 4rem auto 2rem auto;
 }
 
 .copy-right{
