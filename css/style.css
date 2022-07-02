@@ -164,6 +164,23 @@ a:hover{
   padding: 4.5rem 0 1rem;
 }
 
+.instagram-img{
+  width: 3%
+}
+
+.youtube-img{
+  width: 3%
+}
+
+.facebook-img{
+  width: 3%
+}
+
+.linkedin-img{
+  width: 3%
+}
+
+
 @media(max-width:998px){
   html{
     font-size: 55%
@@ -227,3 +244,4 @@ a:hover{
    border-radius: 0.8rem;
    text-decoration: none;
 }
+
