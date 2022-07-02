@@ -205,35 +205,35 @@ a:hover{
   }
 
   .instagram-img{
-    width: 3%
+    width: 3.5%
   }
 
   .youtube-img{
-    width: 3%
+    width: 3.5%
   }
 
   .facebook-img{
-    width: 3%
+    width: 3.5%
   }
 
   .linkedin-img{
-    width: 3%
+    width: 3.5%
   }
 
   .instagram-img:hover{
-    width: 3.5%
+    width: 4%
   }
 
   .youtube-img:hover{
-    width: 3.5%
+    width: 4%
   }
 
   .facebook-img:hover{
-    width: 3.5%
+    width: 4%
   }
 
   .linkedin-img:hover{
-    width: 3.5%
+    width: 4%
   }
 
 }
@@ -254,35 +254,35 @@ a:hover{
   }
 
   .instagram-img{
-    width: 3%
+    width: 4%
   }
 
   .youtube-img{
-    width: 3%
+    width: 4%
   }
 
   .facebook-img{
-    width: 3%
+    width: 4%
   }
 
   .linkedin-img{
-    width: 3%
+    width: 4%
   }
 
   .instagram-img:hover{
-    width: 3.5%
+    width: 4.5%
   }
 
   .youtube-img:hover{
-    width: 3.5%
+    width: 4.5%
   }
 
   .facebook-img:hover{
-    width: 3.5%
+    width: 4.5%
   }
 
   .linkedin-img:hover{
-    width: 3.5%
+    width: 4.5%
   }
 
 }
@@ -325,6 +325,5 @@ a:hover{
    border-radius: 0.8rem;
    text-decoration: none;
 }
-
 
 
