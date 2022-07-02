@@ -180,6 +180,21 @@ a:hover{
   width: 3%
 }
 
+.instagram-img:hover{
+  width: 4%
+}
+
+.youtube-img:hover{
+  width: 4%
+}
+
+.facebook-img:hover{
+  width: 4%
+}
+
+.linkedin-img:hover{
+  width: 4%
+}
 
 @media(max-width:998px){
   html{
@@ -244,4 +259,5 @@ a:hover{
    border-radius: 0.8rem;
    text-decoration: none;
 }
+
 
