@@ -203,6 +203,39 @@ a:hover{
   p{
     font-size: 1.5rem
   }
+
+  .instagram-img{
+    width: 3%
+  }
+
+  .youtube-img{
+    width: 3%
+  }
+
+  .facebook-img{
+    width: 3%
+  }
+
+  .linkedin-img{
+    width: 3%
+  }
+
+  .instagram-img:hover{
+    width: 3.5%
+  }
+
+  .youtube-img:hover{
+    width: 3.5%
+  }
+
+  .facebook-img:hover{
+    width: 3.5%
+  }
+
+  .linkedin-img:hover{
+    width: 3.5%
+  }
+
 }
 
 @media(max-width:768px){
@@ -219,6 +252,39 @@ a:hover{
   .top-cloud{
     visibility: hidden;
   }
+
+  .instagram-img{
+    width: 3%
+  }
+
+  .youtube-img{
+    width: 3%
+  }
+
+  .facebook-img{
+    width: 3%
+  }
+
+  .linkedin-img{
+    width: 3%
+  }
+
+  .instagram-img:hover{
+    width: 3.5%
+  }
+
+  .youtube-img:hover{
+    width: 3.5%
+  }
+
+  .facebook-img:hover{
+    width: 3.5%
+  }
+
+  .linkedin-img:hover{
+    width: 3.5%
+  }
+
 }
 
 .btn {
@@ -259,5 +325,6 @@ a:hover{
    border-radius: 0.8rem;
    text-decoration: none;
 }
+
 
 
