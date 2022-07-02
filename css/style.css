@@ -254,35 +254,35 @@ a:hover{
   }
 
   .instagram-img{
-    width: 4%
+    width: 5%
   }
 
   .youtube-img{
-    width: 4%
+    width: 5%
   }
 
   .facebook-img{
-    width: 4%
+    width: 5%
   }
 
   .linkedin-img{
-    width: 4%
+    width: 5%
   }
 
   .instagram-img:hover{
-    width: 4.5%
+    width: 5.5%
   }
 
   .youtube-img:hover{
-    width: 4.5%
+    width: 5.5%
   }
 
   .facebook-img:hover{
-    width: 4.5%
+    width: 5.5%
   }
 
   .linkedin-img:hover{
-    width: 4.5%
+    width: 5.5%
   }
 
 }
@@ -325,5 +325,4 @@ a:hover{
    border-radius: 0.8rem;
    text-decoration: none;
 }
-
 
