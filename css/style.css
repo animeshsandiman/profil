@@ -285,6 +285,27 @@ a:hover{
     width: 5.5%
   }
 
+  .intro {
+    width: 40%;
+    margin: auto;
+  }
+
+  .skill-row {
+    margin: 5rem auto 5rem auto;
+    width: 65%;
+    text-align: left;
+  }
+
+  .skill-project {
+    margin: 1rem auto 1rem auto;
+    width: 65%;
+    text-align: center;
+  }
+
+  .contact-message {
+    width: 60%;
+    margin: 4rem auto 2rem auto;
+  }
 }
 
 .btn {
