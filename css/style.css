@@ -117,12 +117,12 @@ a:hover{
 .App_img{
   width: 25%;
   float: right;
-  margin-lrft: 3rem;
+  margin-left: 3rem;
 }
 
 .mysql_img{
   width: 25%;
-  float: lrft;
+  float: left;
   margin-right: 3rem;
 }
 
