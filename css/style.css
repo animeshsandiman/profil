@@ -92,16 +92,16 @@ a:hover{
   width: 52.6%;
 }
 
-.python_img {
+.salesmarketing_img {
   width: 25%;
   float: left;
   margin-right: 3rem;
 }
 
-.salesmarketing_img {
+.python_img {
   width: 25%;
-  float: left;
-  margin-right: 3rem;
+  float: right;
+  margin-left: 3rem;
 }
 
 .profile_img{
@@ -110,17 +110,19 @@ a:hover{
 
 .webdevelopment_img {
   width: 25%;
-  float: right;
-  margin-left: 3rem;
+  float: left;
+  margin-right: 3rem;
 }
-.mysql_img{
-  width: 25%;
-  float: right;
-  margin-left: 3rem;
-}
+
 .App_img{
   width: 25%;
-  float: left;
+  float: right;
+  margin-lrft: 3rem;
+}
+
+.mysql_img{
+  width: 25%;
+  float: lrft;
   margin-right: 3rem;
 }
 
