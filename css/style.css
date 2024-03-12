@@ -98,21 +98,22 @@ a:hover{
   margin-right: 3rem;
 }
 
-.python_img {
+.webdevelopment_img {
   width: 25%;
   float: right;
   margin-left: 3rem;
+}
+
+.python_img {
+  width: 25%;
+  float: left;
+  margin-right: 3rem;
 }
 
 .profile_img{
   width: 25%
 }
 
-.webdevelopment_img {
-  width: 25%;
-  float: left;
-  margin-right: 3rem;
-}
 
 .App_img{
   width: 25%;
